@@ -1,3 +1,2 @@
-# Harmony Calculator
+# HapsCalculator
 简单计算器,有普通和科学计算器两个页面,科学计算器增加的按钮暂未添加解析器,仅占位
-项目名是test1(如果真的有人会下载试用的话)
